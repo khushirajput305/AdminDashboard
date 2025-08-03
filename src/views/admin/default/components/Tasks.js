@@ -47,7 +47,7 @@ export default function Conversion(props) {
             color={textColor}
             fontSize='md'
             textAlign='start'>
-            Landing Page Design
+            Verify New NFTs
           </Text>
           <Icon
             ms='auto'
@@ -64,7 +64,7 @@ export default function Conversion(props) {
             color={textColor}
             fontSize='md'
             textAlign='start'>
-            Dashboard Builder
+            Review Reported NFTs
           </Text>
           <Icon
             ms='auto'
@@ -81,7 +81,7 @@ export default function Conversion(props) {
             color={textColor}
             fontSize='md'
             textAlign='start'>
-            Mobile App Design
+            Onboard New Creators
           </Text>
           <Icon
             ms='auto'
@@ -98,7 +98,7 @@ export default function Conversion(props) {
             color={textColor}
             fontSize='md'
             textAlign='start'>
-            Illustrations
+           Update Featured NFTs
           </Text>
           <Icon
             ms='auto'
@@ -115,7 +115,7 @@ export default function Conversion(props) {
             color={textColor}
             fontSize='md'
             textAlign='start'>
-            Promotional LP
+           	Monitor Active Bids
           </Text>
           <Icon
             ms='auto'

@@ -1,24 +1,24 @@
 [
   {
-    "name":"Marketplace",
+    "name":"Sold NFTs",
     "status": "Approved",
     "date": "24.Jan.2024",
     "progress": 75.5  
   },
   {
-    "name":"Marketplace",
+    "name":"Sold NFTs",
     "status": "Disable",
     "date": "30.Dec.2024",
     "progress": 25.5  
   },
   {
-    "name":"Marketplace",
+    "name":"Sold NFTs",
     "status": "Error",
     "date": "20.May.2024",
     "progress": 90  
   },
   {
-    "name":"Marketplace",
+    "name":"Sold NFTs",
     "status": "Approved",
     "date": "12.Jul.2024",
     "progress": 50.5  
